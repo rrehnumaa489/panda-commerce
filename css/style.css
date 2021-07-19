@@ -1,3 +1,13 @@
-h1{
-    background-color: aqua;
+.panda-bg-info{
+    background-color: #fde9e8;
+}
+.categories img{
+    width: 100px;
+}
+.panda-btn-buy-now{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff4b92 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
 }
